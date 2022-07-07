@@ -1,0 +1,19 @@
+
+            h1 {
+                color: lightslategray;
+            }
+            img {
+                width: 400px;
+            }
+            #thirdDiv {
+                height: 600px;
+                width: 500px;
+                background-color: lightskyblue;
+                padding: 50px;
+                border-width: 50px;
+                border-color: lightslategray;
+            }
+            #spanId{
+                font-size: 18px;
+            }
+      
