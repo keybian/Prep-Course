@@ -1,0 +1,72 @@
+ 
+            img {
+                width: 400px;
+            }
+            #thirdDiv {
+                height: auto;
+                width: 300px;
+                background-color: black;
+                padding: 50px;
+                border-width: 50px;
+                border-color: rgb(40, 3, 3);
+            }
+            #thirdDiv2 {
+                height: auto;
+                width: 900px;
+                background-color: white;
+                padding: 50px;
+                border-width: 50px;
+                border-color: rgb(40, 3, 3);
+            }
+            #spanId{
+                font-size: 18px;
+            }
+            body{
+                background-image: url(./fondoCV.png);
+            }
+            .divContenedor{
+                display: inline-block;
+            }
+            
+            #contenedor1{
+                
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                
+                
+                float: left;
+
+                
+            }
+            #contenedor2{
+                
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                
+                
+               
+                float: right;
+                
+            }
+          
+            
+            h2{
+                
+                color: white;
+                font-style: oblique;
+            }
+            .p1 {
+                color: yellow;
+                font-style: oblique;
+            }
+            .p2 {
+                color: white;
+                font-style: oblique;
+            }
+            .separador {
+                height: auto;
+                width: auto;
+                background-color: blue;
+                
+            }
+      
